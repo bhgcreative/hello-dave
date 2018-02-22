@@ -1,0 +1,3 @@
+LedPin =      10
+BtnPin =      11
+Led_status =  0
